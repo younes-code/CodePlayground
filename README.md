@@ -20,4 +20,4 @@ Whether you want to **build your own games**, experiment with **object tracking*
 ## How to Get Started
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/younes-code/CodePlayground.git>
